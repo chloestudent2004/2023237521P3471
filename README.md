@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>HTML</h1>
-<p>Hypertext Markup Language (HTML) is the standard <a href="https://en.wikipedia.org/wiki/Markup_language">markup language</a> for documents designed to be displayed in a <a href="https://en.wikipedia.org/wiki/Web_browser">web browser </a>. It defines the <a href=https://en.wikipedia.org/wiki/Web_content"> content </a> and structure of web content. It is often assisted by technologies such as <a href="https://en.wikipedia.org/wiki/CSS"<a> Cascading Style  Sheets (CSS)</a and scripting languages such as JavaScript.
+<p>Hypertext Markup Language (HTML) is the standard <a href="https://en.wikipedia.org/wiki/Markup_language">markup language</a> for documents designed to be displayed in a <a href="https://en.wikipedia.org/wiki/Web_browser">web browser </a>. It defines the <a href="https://en.wikipedia.org/wiki/Web_content"> content </a> and structure of web content. It is often assisted by technologies such as <a href="https://en.wikipedia.org/wiki/CSS"> Cascading Style  Sheets (CSS)</a> and scripting languages such as JavaScript.
 </p>
  <hr>
 <p>Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for its appearance</p>
