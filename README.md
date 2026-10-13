@@ -7,6 +7,7 @@
 <p>Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for its appearance</p>
  <hr>
 <div class="flourish-embed flourish-photo-slider" data-src="visualisation/30328757"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/30328757/thumbnail" width="100%" alt="photo-slider visualization" /></noscript></div>
+ <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQe1InJHY53qtoVWfHpRq_hRoiGelvXw61_6l3WNUkhgSD_Eh42iiPsmz5aTbMwnFIiU8vUjPPYJUEG&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></ifram
 <footer></footer>Seminar Practice Page
 </body>
 </html>
